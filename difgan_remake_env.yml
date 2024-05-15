@@ -1,4 +1,5 @@
-name: difgan
+name: difgan2
+
 channels:
   - pytorch
   - nvidia
